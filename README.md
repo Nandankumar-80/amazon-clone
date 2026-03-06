@@ -6,7 +6,7 @@ The project replicates the basic layout and design of the Amazon homepage.
 ## 🚀 Live Demo
 
 View the website here:
-https://your-netlify-link
+https://amazon-clone80.netlify.app/
 
 ## 🛠️ Technologies Used
 
